@@ -5,6 +5,7 @@ define('ANIMALS', [
   'bird'
 ]);
 
+<<<<<<< HEAD
 echo ANIMALS[1];
 
 define('DB', [
@@ -15,3 +16,6 @@ define('DB', [
 ]);
 
 echo DB['host'];
+=======
+echo ANIMALS[1];
+>>>>>>> 2dee02f97053dbf6b8e68a2a9b6b35a30ecceac4
